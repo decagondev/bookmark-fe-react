@@ -1,5 +1,5 @@
 # Bookmark FE
-Frontend to connect to NestJS Bookmark API
+Frontend to connect to NestJS Bookmark API (with Auth)
 
 ## Routes
 - **/** `<HomePage />`
